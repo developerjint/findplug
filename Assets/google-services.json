@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "50898075385",
+    "firebase_url": "https://unityfirebase-a597b.firebaseio.com",
+    "project_id": "unityfirebase-a597b",
+    "storage_bucket": "unityfirebase-a597b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50898075385:android:46124d34f5864878",
+        "android_client_info": {
+          "package_name": "com.unity.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50898075385-6i4ffekig60d30pt3jirqiqlpse00qm8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.unity.firebase",
+            "certificate_hash": "467d2570d8a2c0fbdfd2a935765e0bb05b2dc47c"
+          }
+        },
+        {
+          "client_id": "50898075385-mkt4kulvqibnra40mk09vmfbg3hg93rr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.unity.firebase",
+            "certificate_hash": "01f922aa488c7352a7ced2936ab3e1b7b8784b5e"
+          }
+        },
+        {
+          "client_id": "50898075385-u63v9vrabgn3hkeur6s559uqhs3rv81o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXtH_7IxshS8c5JG2jn-rtv73E72yOTzI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50898075385-u63v9vrabgn3hkeur6s559uqhs3rv81o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
